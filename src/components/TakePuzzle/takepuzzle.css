@@ -1,0 +1,36 @@
+.container-form{
+    display: inline-block;
+    border-top: 3px solid #00FF00;
+    border-left: 3px solid #00FF00;
+    margin: 10px 0px 10px 0px;
+}
+.container-form > input{
+    width: 2.2rem;
+    height: 2.2rem;
+    text-align: center;
+    border: 1px solid #00ff0085;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-size: 1rem;
+    font-family: 'Lekton', sans-serif;
+}
+
+.container > button:hover{
+    cursor: pointer;
+    background-color: rgb(233, 224, 224);
+}
+
+input[type="number"]::-webkit-outer-spin-button, input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/*************************************************************************/
+
+@media only screen and (max-width: 844px)
+{
+    .container{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}

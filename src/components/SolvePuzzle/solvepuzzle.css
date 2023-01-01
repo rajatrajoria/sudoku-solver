@@ -1,0 +1,29 @@
+.container-solve{
+    margin: 20px;
+    box-sizing: border-box;
+    border-top: 3px solid #2c0bea;
+    border-left: 3px solid #2c0bea;
+}
+
+table{
+    border-collapse: collapse;
+}
+.container-solve td{
+    /* border:1px solid green;  */
+    border: 1px solid #3821b5;
+    background-color: black;
+    width: 2.2rem;
+    height: 2.2rem;
+    color: rgba(255, 255, 255, 0.703);
+    text-align: center;
+    font-weight: 100;
+    font-family: 'Lekton', sans-serif;
+}
+
+@media only screen and (max-width: 844px)
+{
+    .container-solve-button{
+        display: inline-flex;
+        flex-direction: column-reverse;
+    }
+}
