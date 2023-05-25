@@ -1,11 +1,14 @@
 # Sudoku Solver
 
-This project is built using React Js. React Forms are extensively used.
+This project is built using React Js. React Forms are extensively used. <br>
+The application is expected to handle all the edge cases. 
+Color codes are also used to enhance visual aspects. 
 
 ## How to Run?
 
 To run this project on your local machine, follow the below steps:
 
-Use 'git clone https://github.com/rajatrajoria/sudoku-solver.git' command to clone this repo to your computer.
-Install the dependencies using 'npm install'
-Now, start the local server and view the project in action.
+ 1. Use 'git clone' command to clone this repo to your computer.
+ 2. Install the dependencies using 'npm install'
+ 3. Now, start the local server and view the project in action.
+
