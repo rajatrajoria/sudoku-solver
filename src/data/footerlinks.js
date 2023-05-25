@@ -2,6 +2,11 @@ export default {
     footlinks: 
     [
         {
+            name: "Personal Website",
+            image: "https://img.icons8.com/color/512/portfolio.png",
+            link: "https://rajat-rajoria.netlify.app/"
+        },
+        {
             name: "Instagram",
             image: "https://img.icons8.com/fluency/2x/instagram-new.png",
             link: "https://www.instagram.com/azido_azide_/"
@@ -20,7 +25,7 @@ export default {
             name: "Medium",
             image: "https://img.icons8.com/color-glass/2x/medium-logo.png",
             link: "https://medium.com/@rajatrajoria0811"
-        },
+        }
     ],
     footname: "Rajat R."
 }
