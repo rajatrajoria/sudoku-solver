@@ -12,3 +12,4 @@ To run this project on your local machine, follow the below steps:
  2. Install the dependencies using 'npm install'
  3. Now, start the local server and view the project in action.
 
+### [ Watch this project live here ](https://rajat-rajoria-sudokusolver.netlify.app/)
